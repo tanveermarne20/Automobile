@@ -1,3 +1,3 @@
 ---HEY,HII SAKSHI.
 --THIS IS A TABLE CREATION FILE OF PRODUCTION PLANT ASSEMBLY.
-
+--We are going with Star schema
