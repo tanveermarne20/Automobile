@@ -1,7 +1,9 @@
-
---TABLE CREATION FILE
---Hey hii,write your code here
---Working on shortly
-
------
---CREATE TABLE
+CREATE TABLE SALES(
+Product_Id  NUMBER;
+Customer_Id  NUMBER;
+Employee_Id NUMBER;
+Order_Id NUMBER;
+Total NUMBER;
+Quantity  NUMBER;
+Discount  NUMBER
+);
